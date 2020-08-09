@@ -1,0 +1,16 @@
+Paradigma Imperativo: Es la forma en que se le dice a un progrma como hacer un proceso y tarea
+
+Paradigma Declarativo: Se le dice al programa que hacer y este lo procesa por medio de algoritmos prediseñados
+
+Ejemplos:
+Imperativo: para una potencia
+ int potencia(int v,int c){
+      int a;
+     for(a=1;c>0;--c)  
+             a*= v;
+  return n;
+}
+
+Declarativo: para una potencia
+Math.pow(a,x)
+  
