@@ -1,0 +1,24 @@
+<tag_reg1>
+ <nombre>Pedro</nombre>
+ <apellido>Luis</apellido>
+ <carrera>arquitectura</carrera>
+ <numero>15</numero>
+</tag_reg1>
+<tag_reg2>
+ <nombre>Pedro</nombre>
+ <apellido>Auron</apellido>
+ <carrera>Medicina</carrera>
+ <numero>1</numero>
+</tag_reg2>
+<tag_reg3>
+ <nombre>Jose</nombre>
+ <apellido>Luis</apellido>
+ <carrera>Ingenieria</carrera>
+ <numero>25</numero>
+</tag_reg3>
+<tag_reg4>
+ <nombre>Marci</nombre>
+ <apellido>Elan</apellido>
+ <carrera>agronomia</carrera>
+ <numero>20</numero>
+</tag_reg4>

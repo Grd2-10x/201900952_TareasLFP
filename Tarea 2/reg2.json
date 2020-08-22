@@ -1,0 +1,29 @@
+{
+  "Personas":[
+    {
+                      "ID": 1,
+                      "Nombre": "Samuel",
+                      "Edad": "24",
+                      "Genero": "Hombre",
+    },
+    {
+                      "ID": 2,
+                      "Nombre": "Erick",
+                      "Edad": "20",
+                      "Genero": "Hombre",
+    },
+    {
+                      "ID": 3,
+                      "Nombre": "Fabiola",
+                      "Edad": "19",
+                      "Genero": "Mujer",
+    },
+   {
+                      "ID": 4,
+                      "Nombre": "Mariana",
+                      "Edad": "23",
+                      "Genero": "Mujer",
+    },
+   
+  ]
+}
